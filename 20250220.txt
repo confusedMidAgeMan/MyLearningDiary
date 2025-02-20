@@ -1,0 +1,5 @@
+1、安装了python
+2、安装了cursor
+3、使用cursor开发了贪吃蛇游戏
+4、注册了github
+5、上传今天的日志
