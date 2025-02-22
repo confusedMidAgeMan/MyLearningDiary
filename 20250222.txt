@@ -1,0 +1,2 @@
+1、重新安装了idea、mysql、nodejs
+2、确定方向，学习springAI，短期内不再关注python、微信小程序、agent
